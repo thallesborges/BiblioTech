@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: BiblioTech
+  datasource:
+    url: jdbc:postgresql://localhost:5432/bibliotech
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
