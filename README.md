@@ -1,0 +1,1 @@
+A BiblioTech é um sistema de gerenciamento digital para uma biblioteca local de pequeno a médio porte. O objetivo é substituir o controle manual (planilhas e cadernos) por uma plataforma centralizada que gerencie o acervo, os usuários e as locações de livros, garantindo rastreabilidade, agilidade no atendimento e controle de disponibilidade em tempo real.
